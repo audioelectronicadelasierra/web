@@ -2,7 +2,7 @@ img {
   -webkit-transition-duration: 0.01s; /* Safari */	
 }
 body.index {
-  background: url("https://raw.githubusercontent.com/lastralab/audioelectronicadelasierra/master/inicio.jpg?token=AV1ZMc5BraVqZLkhOq2TR_hj2JmouSrMks5aQ9gJwA%3D%3D");
+  background: url("inicio.jpg");
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
