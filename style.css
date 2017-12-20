@@ -2,21 +2,21 @@ img {
   -webkit-transition-duration: 0.01s; /* Safari */	
 }
 body.index {
-  background: url("inicio.jpg");
+  background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/inicio.jpg");
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-position: top;
 }
 body.about {
-  background: url("https://raw.githubusercontent.com/lastralab/audioelectronicadelasierra/master/empresa.jpg?token=AV1ZMU0-V3OvK3d9A7x_i0GlPQOflGAQks5aQ9kRwA%3D%3D");
+  background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/empresa.jpg");
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-position: top;
 }
 body.contact {
-  background: url("https://raw.githubusercontent.com/lastralab/audioelectronicadelasierra/master/contacto.jpg?token=AV1ZMd7vmqsznG06Emvz7G0G22NgJJarks5aQ9jWwA%3D%3D");
+  background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/contacto.jpg");
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
