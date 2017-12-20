@@ -1,0 +1,82 @@
+img {
+  -webkit-transition-duration: 0.01s; /* Safari */	
+}
+body.index {
+  background: url("https://raw.githubusercontent.com/lastralab/audioelectronicadelasierra/master/inicio.jpg?token=AV1ZMc5BraVqZLkhOq2TR_hj2JmouSrMks5aQ9gJwA%3D%3D");
+  background-repeat: no-repeat;
+  font-family: "Andale Mono", AndaleMono, monospace;
+  background-attachment: scroll;
+  background-position: top;
+}
+body.about {
+  background: url("https://raw.githubusercontent.com/lastralab/audioelectronicadelasierra/master/empresa.jpg?token=AV1ZMU0-V3OvK3d9A7x_i0GlPQOflGAQks5aQ9kRwA%3D%3D");
+  background-repeat: no-repeat;
+  font-family: "Andale Mono", AndaleMono, monospace;
+  background-attachment: scroll;
+  background-position: top;
+}
+body.contact {
+  background: url("https://raw.githubusercontent.com/lastralab/audioelectronicadelasierra/master/contacto.jpg?token=AV1ZMd7vmqsznG06Emvz7G0G22NgJJarks5aQ9jWwA%3D%3D");
+  background-repeat: no-repeat;
+  font-family: "Andale Mono", AndaleMono, monospace;
+  background-attachment: scroll;
+  background-position: top;
+}
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li.menu {
+    float: left;
+}
+
+li.menu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.menu a:hover {
+    background-color: #444;
+}
+h1 {
+  text-align: center;
+  float: top;
+}
+table {
+  align: center;
+  position: center;
+  float: bottom;
+}
+tr {
+  text-align: center;
+  padding: 8px;
+}
+td {
+  text-align: center;
+  padding: 8px;
+}
+p.note {
+  text-align: center;
+  float: bottom;
+  color: white;
+}
+h3 {
+  text-align: center;
+  float:bottom;
+}
+h4 {
+  text-align: center;
+  float:bottom;
+  color: white;
+}
+h2 {
+  text-align: center;
+  float:bottom;
+}
