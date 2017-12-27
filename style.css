@@ -11,6 +11,7 @@ body.index {
   -moz-background-size: cover;    /* Mozilla*/
   -o-background-size: cover;      /* Opera*/
   background-size: cover;
+  position: absolute;
 }
 body.about {
   background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/empresa.jpg");
