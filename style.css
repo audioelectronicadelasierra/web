@@ -6,7 +6,7 @@ body.index {
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
-  background-position: bottom;
+  background-position: top;
   -webkit-background-size: cover; /* For WebKit*/
   -moz-background-size: cover;    /* Mozilla*/
   -o-background-size: cover;      /* Opera*/
@@ -18,7 +18,7 @@ body.about {
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   -webkit-background-size: cover; /* For WebKit*/
   -moz-background-size: cover;    /* Mozilla*/
   -o-background-size: cover;      /* Opera*/
@@ -29,7 +29,7 @@ body.contact {
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   -webkit-background-size: cover; /* For WebKit*/
   -moz-background-size: cover;    /* Mozilla*/
   -o-background-size: cover;      /* Opera*/
