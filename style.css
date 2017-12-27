@@ -18,6 +18,11 @@ body.about {
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-position: top;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
 }
 body.contact {
   background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/contacto.jpg");
@@ -25,6 +30,11 @@ body.contact {
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-position: top;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
 }
 ul.menu {
     list-style-type: none;
