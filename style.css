@@ -8,6 +8,9 @@ body.index {
   background-attachment: scroll;
   background-size: cover;
   background-position: center;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
 }
 body.about {
   background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/empresa.jpg");
