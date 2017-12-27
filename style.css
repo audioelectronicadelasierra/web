@@ -7,7 +7,6 @@ body.index {
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
   background-position: top;
-  background-size: 100% 100%;
 }
 body.about {
   background: url("https://raw.githubusercontent.com/audioelectronicadelasierra/web/master/empresa.jpg");
