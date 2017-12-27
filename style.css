@@ -84,6 +84,6 @@ a.foot {
   text-decoration: none;
   color: #0D187A;
 }
-a.foot.hoover {
+a.foot:hover {
   color: #1174BD;
   
