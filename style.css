@@ -17,7 +17,6 @@ body.about {
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
-  background-position: top;
   background-size: cover;
   background-position: center;
   -webkit-background-size: cover; /* For WebKit*/
@@ -29,7 +28,6 @@ body.contact {
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
-  background-position: top;
   background-size: cover;
   background-position: center;
   -webkit-background-size: cover; /* For WebKit*/
