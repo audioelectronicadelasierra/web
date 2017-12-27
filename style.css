@@ -54,6 +54,7 @@ table {
   align: center;
   position: center;
   float: bottom;
+  display: inline;
 }
 tr {
   text-align: center;
