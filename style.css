@@ -13,7 +13,6 @@ body.about {
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
-  background-size: cover;
   background-position: top;
 }
 body.contact {
@@ -21,7 +20,6 @@ body.contact {
   background-repeat: no-repeat;
   font-family: "Andale Mono", AndaleMono, monospace;
   background-attachment: scroll;
-  background-size: cover;
   background-position: top;
 }
 ul.menu {
