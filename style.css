@@ -54,7 +54,6 @@ table {
   align: center;
   position: center;
   float: bottom;
-  display: inline;
 }
 tr {
   text-align: center;
@@ -62,7 +61,7 @@ tr {
 }
 td {
   text-align: center;
-  padding: 8px;
+  padding: 4px;
 }
 p.note {
   text-align: center;
