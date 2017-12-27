@@ -80,3 +80,10 @@ h2 {
   text-align: center;
   float:bottom;
 }
+a.foot {
+  text-decoration: none;
+  color: #0D187A;
+}
+a.foot.hoover {
+  color: #1174BD;
+  
